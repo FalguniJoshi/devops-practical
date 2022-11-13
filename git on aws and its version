@@ -1,0 +1,5 @@
+Create install and connect it to putty
+Sudo su
+Yum install git -y
+Git -v
+
