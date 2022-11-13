@@ -1,0 +1,5 @@
+Go to jenkins and create a new project
+Give name to the project  and select freestyle project
+In source code management select git
+Add the repo of https://github.com/wakaleo/game-of-life.git
+Then built 
