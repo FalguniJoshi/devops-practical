@@ -1,0 +1,32 @@
+Create a new project select pipeline
+Add code only till hello world and run then add rest of the code and again run
+Pipeline{
+Agent any
+stages{
+        stage('hello') {
+            steps{
+                echo 'hello world'
+            }
+
+
+
+pipeline {
+    agent any 
+    stages {
+        stage('Build') { 
+            steps {
+                // 
+            }
+        }
+        stage('Test') { 
+            steps {
+                // 
+            }
+        }
+        stage('Deploy') { 
+            steps {
+                // 
+            }
+        }
+    }
+}
