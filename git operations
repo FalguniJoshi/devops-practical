@@ -1,0 +1,17 @@
+Create instance 
+Sudo su
+Yum update -y
+Yum install git -y
+Git –version
+Git config –list
+Git config –global user.name “falguni”
+Git config –global user.email “falgunijoshi@gmail.com”
+Git config –list
+Which git
+Mkdir dev26
+Cd dev26
+Ls
+Cat >> dev26
+Ls
+Git init
+Git remote add falguni  https://github.com/FalguniJoshi/falguni26.git
