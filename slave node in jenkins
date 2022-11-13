@@ -1,0 +1,4 @@
+Go to jenkins and select manage jenkins
+In that select manage nodes and cloud
+Create slave node 
+and run 
