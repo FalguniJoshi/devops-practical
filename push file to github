@@ -1,1 +1,9 @@
 create a repo
+git clone ' repo link'
+git remote add falguni 'link of repo'
+git add .
+git commit -m 'inotial commit'
+git config --global --edit
+add user anme and password 
+git push origin master
+
