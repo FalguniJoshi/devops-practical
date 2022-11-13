@@ -1,0 +1,5 @@
+Open jenkins and select new item 
+Give name and select maven project 
+Add the repo of jleetutorial and write test in goals 
+Save and apply 
+Build the project 
