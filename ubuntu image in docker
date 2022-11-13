@@ -1,0 +1,26 @@
+Create instance 
+Yum update -y
+Amazon-linux-extras install docker -y
+Service docker start
+Usermod -a -G docker ec2-user
+Service docker status
+Docker info
+Docker images
+Docker pull ubuntu
+Docker run -it -d ubuntu
+Docker ps
+Docker ps -a
+Docker exec -it container-id(docker ps -a) bash
+Inside the container user{
+Ls
+Mkdir docker
+Ls
+Exit}
+Docker –version
+Docker run hello-world
+Docker pull alpine
+Docker run -it -d alpine
+Docker container ls
+Docker search mysql
+
+
