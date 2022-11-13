@@ -1,0 +1,6 @@
+Create instance and connect it to putty
+Sudo su
+Yum update -y
+Amazon-linux-extras install docker -y
+Service docker start
+Docker -v
