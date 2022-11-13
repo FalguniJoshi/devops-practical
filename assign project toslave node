@@ -1,0 +1,7 @@
+go to jenkins and select manage jenkins 
+Select mange nodes 
+Craete node and give the location of a folder created on desktop
+And save 
+Use the link to connect the slave in cmd
+Create a new project 
+In general > restrict where the project can be run > add slave name and save
